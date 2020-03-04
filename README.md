@@ -16,8 +16,9 @@ We have designed the following architecture for our project:
 ![Image 1](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Customer%20Feedback%20based%20on%20Facial%20Emotion%20%20Architecture.png)
 
 <h3> Register your AWS Deeplens device</h3>
-Here are the steps to register your AWS Deeplens Device.
-![Image 2](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/AWS%20Deeplens.JPG)
+Here are the steps to register your AWS Deeplens Device:
+
+![Image 1](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/AWS%20Deeplens.JPG)
 ![Image 3](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Register%20Device.JPG)
 ![Image 7](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Hardware%20Selection.JPG)
 ![Image 4](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/configure%20Account.JPG)
@@ -26,7 +27,7 @@ Here are the steps to register your AWS Deeplens Device.
 
 <h3> AWS Sagemaker</h3>
 In Sagemaker create a notebookinstace where you can train the model.
-![Image 8](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Aws%20Sagemaker.JPG)
+![Image 1](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Aws%20Sagemaker.JPG)
 ![Image 9](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Notebook%20Instance.JPG)
 ![Image 10](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/create%20notebook%20instance.JPG)
 ![Image 11](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Set%20IAM%20for%20notebook%20Instance.JPG)
