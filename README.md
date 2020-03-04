@@ -26,7 +26,8 @@ Here are the steps to register your AWS Deeplens Device:
 ![Image 6](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/connect%20your%20device.JPG)
 
 <h3> AWS Sagemaker</h3>
-In Sagemaker create a notebookinstace where you can train the model.
+In Sagemaker create a notebookinstace where you can train the model:
+
 ![Image 1](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Aws%20Sagemaker.JPG)
 ![Image 9](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Notebook%20Instance.JPG)
 ![Image 10](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/create%20notebook%20instance.JPG)
