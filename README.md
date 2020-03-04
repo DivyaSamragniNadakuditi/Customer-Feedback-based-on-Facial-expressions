@@ -13,3 +13,4 @@ The expected results of this work is to record the feedback of the customer usin
 <h2> AWS Architecture</h2>
 
 We have designed the following architecture for our project:
+![Image 1](https://github.com/DivyaSamragniNadakuditi/Customer-Feedback-based-on-Facial-expressions/blob/master/Customer%20Feedback%20based%20on%20Facial%20Emotion%20%20Architecture.png)
