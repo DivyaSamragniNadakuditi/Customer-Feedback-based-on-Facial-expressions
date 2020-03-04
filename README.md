@@ -10,3 +10,6 @@ We use Amazon Deeplens for the customers reactions, Convolutional Neural Network
 <h2>Expected Results</h2>
 The expected results of this work is to record the feedback of the customer using facial expression that are recorded from Amazon Deeplens. This recorded feedback can be used further to do predictive analysis and draw interesting and necessary conclusions that can enhance the business. 
 
+<h2> AWS Architecture</h2>
+
+We have designed the following architecture for our project:
